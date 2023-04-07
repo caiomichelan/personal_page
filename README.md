@@ -6,4 +6,4 @@
 
 </div>
 
-### Career, projects and personal Introduction Page!
+### Career, Projects and Personal Introduction Page!
