@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Personal_Page](https://user-images.githubusercontent.com/104601836/230644369-7f08cf78-9c3e-452a-b066-9727fb8aab12.JPG)
+![Personal Page](https://github.com/caiomichelan/personal_page/assets/104601836/605c5962-9b84-44e9-a0b3-b1f5978b405b)
 
 </div>
 
