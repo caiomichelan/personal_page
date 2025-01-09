@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Personal Page](https://github.com/caiomichelan/personal_page/assets/104601836/605c5962-9b84-44e9-a0b3-b1f5978b405b)
+![Personal_Page](https://github.com/user-attachments/assets/2ceaba0a-2a4f-4dfa-b848-d7e49fb50c17)
 
 </div>
 
